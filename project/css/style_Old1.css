@@ -1,0 +1,44 @@
+* {
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+    background: gray;
+}
+
+legend{
+    color: black;
+    font-size: 35px;
+    text-align: center;
+}
+
+label{
+    color: blue;
+    font-size: 33px;
+
+}
+
+h3{
+    text-align: center;
+}
+
+.navbar-my{
+    background: transparent;
+    border: none;
+}
+
+.f{
+    height: 400px;
+    width: 500px;
+    background: skyblue;
+    padding: 33px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: black;
+    font-size: 22px;
+    margin-left: 22px;
+    margin-right: -18px;
+}
